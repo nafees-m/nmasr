@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nmasr
+- 👀 I’m interested in data engineering
+- 🌱 I’m currently learning python and SQL
+- 💞️ I’m looking to with others on any data projects
+- 📫 How to reach me 
