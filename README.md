@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nmasr
+- 👋 Hi, I’m @nafees-m
 - 👀 I’m interested in data engineering
 - 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to with others on any data projects
